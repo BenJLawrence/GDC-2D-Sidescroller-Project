@@ -14,3 +14,5 @@
   - Click the green code button, then either open in Github Desktop or copy the link shown and clone from another Git application
   - In Unity Hub, click the dropdown next to open then click "Add project from disk"
   - Locate the repo and then launch the project in Unity Hub
+
+## Every video's project files can be found inside their respective branch.
